@@ -1,1 +1,1 @@
-just trying out [Aurelia](aurelia.io)
+just trying out [Aurelia](http://aurelia.io/)
